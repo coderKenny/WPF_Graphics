@@ -1,0 +1,13 @@
+V:\SW\WPF\WpfApplication8\WpfApplication8\bin\Debug\WpfApplication8.exe.config
+V:\SW\WPF\WpfApplication8\WpfApplication8\bin\Debug\WpfApplication8.exe
+V:\SW\WPF\WpfApplication8\WpfApplication8\bin\Debug\WpfApplication8.pdb
+V:\SW\WPF\WpfApplication8\WpfApplication8\obj\Debug\WpfApplication8.csprojResolveAssemblyReference.cache
+V:\SW\WPF\WpfApplication8\WpfApplication8\obj\Debug\MainWindow.baml
+V:\SW\WPF\WpfApplication8\WpfApplication8\obj\Debug\MainWindow.g.cs
+V:\SW\WPF\WpfApplication8\WpfApplication8\obj\Debug\App.g.cs
+V:\SW\WPF\WpfApplication8\WpfApplication8\obj\Debug\WpfApplication8_MarkupCompile.cache
+V:\SW\WPF\WpfApplication8\WpfApplication8\obj\Debug\WpfApplication8.g.resources
+V:\SW\WPF\WpfApplication8\WpfApplication8\obj\Debug\WpfApplication8.Properties.Resources.resources
+V:\SW\WPF\WpfApplication8\WpfApplication8\obj\Debug\WpfApplication8.csproj.GenerateResource.Cache
+V:\SW\WPF\WpfApplication8\WpfApplication8\obj\Debug\WpfApplication8.exe
+V:\SW\WPF\WpfApplication8\WpfApplication8\obj\Debug\WpfApplication8.pdb

@@ -1,0 +1,13 @@
+V:\SW\WPF\WpfApplication6\WpfApplication6\bin\Debug\WpfApplication6.exe.config
+V:\SW\WPF\WpfApplication6\WpfApplication6\bin\Debug\WpfApplication6.exe
+V:\SW\WPF\WpfApplication6\WpfApplication6\bin\Debug\WpfApplication6.pdb
+V:\SW\WPF\WpfApplication6\WpfApplication6\obj\Debug\WpfApplication6.csprojResolveAssemblyReference.cache
+V:\SW\WPF\WpfApplication6\WpfApplication6\obj\Debug\MainWindow.baml
+V:\SW\WPF\WpfApplication6\WpfApplication6\obj\Debug\MainWindow.g.cs
+V:\SW\WPF\WpfApplication6\WpfApplication6\obj\Debug\App.g.cs
+V:\SW\WPF\WpfApplication6\WpfApplication6\obj\Debug\WpfApplication6_MarkupCompile.cache
+V:\SW\WPF\WpfApplication6\WpfApplication6\obj\Debug\WpfApplication6.g.resources
+V:\SW\WPF\WpfApplication6\WpfApplication6\obj\Debug\WpfApplication6.Properties.Resources.resources
+V:\SW\WPF\WpfApplication6\WpfApplication6\obj\Debug\WpfApplication6.csproj.GenerateResource.Cache
+V:\SW\WPF\WpfApplication6\WpfApplication6\obj\Debug\WpfApplication6.exe
+V:\SW\WPF\WpfApplication6\WpfApplication6\obj\Debug\WpfApplication6.pdb
